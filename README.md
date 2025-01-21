@@ -1,0 +1,1 @@
+This is my College Thesis Project (Back-end). It’s a website for nutritionists and personal trainers to register their clients. Professionals can add new diets, training plans, and measurements. Based on the registered data, they can view a chart showing their clients' progress. Clients also have separate access to view their training plans and diets.
