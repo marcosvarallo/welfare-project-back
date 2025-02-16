@@ -39,7 +39,7 @@ public class HealthProRegistrationService {
                         AppUserRole.ADMIN
                 )
         );
-        String link = "https://welfare-backend.herokuapp.com/api/v1/healthPro/confirm?token=" + token;
+        String link = "https://welfare-46ef9eb7f9c2.herokuapp.com/api/v1/healthPro/confirm?token=" + token;
         emailSender.send(
                 healthProfessionalRequest.getEmail(),
                 buildEmail(healthProfessionalRequest.getFirstName(), link));
